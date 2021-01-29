@@ -1,2 +1,2 @@
-# cnesu..github.io
+# cnesu.github.io
 Demo page
